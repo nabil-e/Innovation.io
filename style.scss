@@ -62,12 +62,20 @@ figure{
   }
 }
 .row{
+  background-color: rgba(65, 108, 224, 0.274);
   li{
     justify-content: space-around;
   }
 }
-
+h3{
+  a{
+    color: rgb(219, 233, 31);
+  }
+}
 #contact{
   padding-top: 0;
 }
 
+p{
+  color: goldenrod;
+}
